@@ -114,13 +114,13 @@ Make sure to start from a brand-new environment to avoid conflicts with previous
 
 1. Enable Communities with the following steps:
 
-    1. In your org, in **Setup**, select **Communities Settings**.
-    1. Click the **Enable communities** checkbox
+    1. In your org, in **Setup**, select **Digital Experiences**.
+    1. Click the **Enable Digital Experiences** checkbox
     1. Enter a domain name for your community. Remember this value as you’ll use it later in this step.
     1. Make sure that your domain name is available by clicking **Check Availability**.
     1. Click **Save** then **Ok**.
-    1. Navigate back to **Communities Settings** in Setup.
-    1. Under **Community Management Settings**, enable **Enable ExperienceBundle Metadata API**.
+    1. Navigate back to **Digital Experiences** in Setup.
+    1. Under **Digital Experiences Settings**, enable **Enable ExperienceBundle Metadata API**.
 
 1. Configure the Community metadata file with the following steps:
 
