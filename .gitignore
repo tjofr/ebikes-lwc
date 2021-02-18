@@ -37,3 +37,8 @@ $RECYCLE.BIN/
 
 # Codecov
 coverage
+
+#Personal notes and creadantials
+*.txt
+E_Bikes.site-meta.xml
+
